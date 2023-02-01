@@ -11,3 +11,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&LogoColor=393939)](https://twitter.com/sadiyko)
 [![Facebook](https://img.shields.io/badge/-Facebook-ffffff?style=for-the-badge&logo=Facebook&LogoColor=393939)](https://www.facebook.com/profile.php?id=100022806754911)
 [![VK](https://img.shields.io/badge/-vKONTAKTE-01061c?style=for-the-badge&logo=VK&LogoColor=393939)](https://vk.com/saykasadiya)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiyko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
