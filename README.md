@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Sadiyko/Sadiyko/main/assets/Новый%20проект%20(1).jpg)](https://www.linkedin.com/in/sadiya-velikhanova-18592a256/)
+[![Header](https://raw.githubusercontent.com/Sadiyko/Sadiyko/main/assets/Новый%20проект%20(2).jpg)](https://www.linkedin.com/in/sadiya-velikhanova-18592a256/)
 
 ## beginner in C++ programing
 
